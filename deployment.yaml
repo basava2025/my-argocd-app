@@ -13,7 +13,7 @@ spec:
         app: my-app
     spec:
       containers:
-      - name: myapp
+      - name: nginx
         image: docker.io/library/nginx:1.21
         ports:
         - containerPort: 80
