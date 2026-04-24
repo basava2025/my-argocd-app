@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - public.ecr.aws/nginx/nginx:1.21.6-perl-amd64
